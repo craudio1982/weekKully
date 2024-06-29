@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/weekKully/static/css/main.aea85b7f.css",
+    "main.js": "/weekKully/static/js/main.3d590522.js",
+    "index.html": "/weekKully/index.html",
+    "static/media/icon_check_off.svg": "/weekKully/static/media/icon_check_off.123d49c45255401f31f6.svg",
+    "static/media/icon_check_on.svg": "/weekKully/static/media/icon_check_on.1269cbc67aca7cce360a.svg",
+    "static/media/icon_dot.svg": "/weekKully/static/media/icon_dot.f1c4a62d9156b1631e23.svg",
+    "main.aea85b7f.css.map": "/weekKully/static/css/main.aea85b7f.css.map",
+    "main.3d590522.js.map": "/weekKully/static/js/main.3d590522.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aea85b7f.css",
+    "static/js/main.3d590522.js"
+  ]
+}
